@@ -1,0 +1,15 @@
+Arduino UNO
+2x 10K Variable Resistors
+TEA5767 FM Radio Module
+Standard Breadboard
+USB Cable
+3.5mm Headphone Cable Extension
+LM386 Sound Amplifier
+2x 3W Speakers
+Alligator Wires
+General Wires
+Light Emitting Diode
+LCD Display for Arduino
+PIR Sensor
+100uF Capacitor
+Antenna
